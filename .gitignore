@@ -24,7 +24,6 @@ var/**
 *.log
 *.db3
 *.sqlite
-*.sh
 *.json
 *.html
 *.csv
