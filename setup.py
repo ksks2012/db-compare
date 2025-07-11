@@ -4,7 +4,7 @@
 from setuptools import setup  # pylint: disable=import-error
 from setuptools import find_packages
 
-setup(name="python-structure",
+setup(name="db-compare",
 		version="0.0.1",
 		description="",
 		packages=find_packages(),
